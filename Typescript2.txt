@@ -1,0 +1,704 @@
+Script started on 2026-02-13 00:00:45-06:00 [TERM="xterm-256color" TTY="/dev/pts/141" COLUMNS="80" LINES="24"]
+[?2004h]0;wsultani@uark.edu@turing: ~/test[01;32mwsultani@uark.edu@turing[00m:[01;34m~/test[00m$ [7mpython3 Database.py[27mpython3 Database.py
+[?2004l
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 1
+Enter the name of the CSV file (without .csv extension): Fortune500
+Database 'Fortune500' created successfully!
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 2
+Enter the database name to open: Fortune500
+Database 'Fortune500' opened successfully!
+Records: 500 (Sorted: 500, Unsorted: 0)
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 2
+Error: A database is already open. Please close it first.
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: WALMART
+
+================================================================================
+Record found at position 475:
+================================================================================
+NAME:      WALMART
+RANK:      1
+CITY:      BENTONVILLE
+STATE:     AR
+ZIP:       72716
+EMPLOYEES: 2300000
+================================================================================
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 3
+Database closed successfully
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): WALMART
+Invalid choice. Please enter 1-9
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Error: No database is open
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 2
+Enter the database name to open: Fortune500
+Database 'Fortune500' opened successfully!
+Records: 500 (Sorted: 500, Unsorted: 0)
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 2
+Error: A database is already open. Please close it first.
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: FIRST AMERICAN FINANCIAL
+
+================================================================================
+Record found at position 187:
+================================================================================
+NAME:      FIRST AMERICAN FINANCIAL
+RANK:      464
+CITY:      SANTA ANA
+STATE:     CA
+ZIP:       92707
+EMPLOYEES: 19531
+================================================================================
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: INTEL
+
+================================================================================
+Record found at position 243:
+================================================================================
+NAME:      INTEL
+RANK:      47
+CITY:      SANTA CLARA
+STATE:     CA
+ZIP:       95054
+EMPLOYEES: 106000
+================================================================================
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): TEXAS INSTRUMENTS
+Invalid choice. Please enter 1-9
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: CONSOLIDATED EDISON
+
+================================================================================
+Record found at position 124:
+================================================================================
+NAME:      CONSOLIDATED EDISON
+RANK:      234
+CITY:      NEW YORK
+STATE:     NY
+ZIP:       10003
+EMPLOYEES: 14960
+================================================================================
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: TEXAS INSTRUMENTS
+
+================================================================================
+Record found at position 434:
+================================================================================
+NAME:      TEXAS INSTRUMENTS
+RANK:      206
+CITY:      DALLAS
+STATE:     TX
+ZIP:       75243
+EMPLOYEES: 29865
+================================================================================
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: ABC SYSTEMS
+Record with name 'ABC SYSTEMS' not found
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: CONSOLIDATED EDISON
+
+================================================================================
+Record found at position 124:
+================================================================================
+NAME:      CONSOLIDATED EDISON
+RANK:      234
+CITY:      NEW YORK
+STATE:     NY
+ZIP:       10003
+EMPLOYEES: 14960
+================================================================================
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 5
+Enter company name to update: CONSOLIDATED EDISON
+
+Current record:
+NAME:      CONSOLIDATED EDISON (cannot be changed)
+RANK:      234
+CITY:      NEW YORK
+STATE:     NY
+ZIP:       10003
+EMPLOYEES: 14960
+
+Enter new values (press Enter to keep current value):
+New RANK [234]: 250
+New CITY [NEW YORK]: NewYork
+New STATE [NY]: 
+New ZIP [10003]: 
+New EMPLOYEES [14960]: 
+Record updated successfully!
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: CONSOLIDATED EDISON
+
+================================================================================
+Record found at position 124:
+================================================================================
+NAME:      CONSOLIDATED EDISON
+RANK:      250
+CITY:      NewYork
+STATE:     NY
+ZIP:       10003
+EMPLOYEES: 14960
+================================================================================
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 5
+Enter company name to update: R.R. DONNELLEY & SONS
+
+Current record:
+NAME:      R.R. DONNELLEY & SONS (cannot be changed)
+RANK:      388
+CITY:      CHICAGO
+STATE:     IL
+ZIP:       60606
+EMPLOYEES: 44360
+
+Enter new values (press Enter to keep current value):
+New RANK [388]: 
+New CITY [CHICAGO]: 
+New STATE [IL]: 
+New ZIP [60606]: 
+New EMPLOYEES [44360]: 
+Record updated successfully!
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 8
+Enter company name to delete: PHILLIPS 66
+Record 'PHILLIPS 66' deleted successfully!
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 8
+Enter company name to delete: J.B. HUNT TRANSPORT SERVICES
+Record 'J.B. HUNT TRANSPORT SERVICES' deleted successfully!
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): ACTIVISION BLIZZARD
+Invalid choice. Please enter 1-9
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 8
+Enter company name to delete: ACTIVISION BLIZZARD
+Record 'ACTIVISION BLIZZARD' deleted successfully!
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: ACTIVISION BLIZZARD
+
+================================================================================
+Record found at position 5:
+================================================================================
+NAME:      ACTIVISION BLIZZARD
+RANK:      
+CITY:      
+STATE:     
+ZIP:       
+EMPLOYEES: 
+================================================================================
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 6
+
+========================================================================================================================
+DATABASE REPORT - First 10 Records
+========================================================================================================================
+NAME                                                    RANK   CITY                 ST   ZIP          EMPLOYEES 
+------------------------------------------------------------------------------------------------------------------------
+3M                                                      94     MAPLEWOOD            MN   55144        91584     
+A-MARK PRECIOUS METALS                                  395    PHILADELPHIA         PA   19107        83000     
+ABBOTT LABORATORIES                                     135    SANTA MONICA         CA   90401        75000     
+ABBVIE                                                  111    NORTH CHICAGO        IL   60064        30000     
+ABM INDUSTRIES                                          500    NEW YORK             NY   10176        110000    
+ACTIVISION BLIZZARD                                                                                             
+ADOBE SYSTEMS                                           443    MCLEAN               VA   22102        15706     
+ADP                                                     240    ROSELAND             NJ   7068         57000     
+ADVANCE AUTO PARTS                                      292    ROANOKE              VA   24012        57500     
+AECOM                                                   161    LOS ANGELES          CA   90067        87000     
+========================================================================================================================
+Total records in database: 500 (Sorted: 500, Unsorted: 0)
+
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 7
+
+Enter new record information:
+NAME: HANDMADE GRAPHICS
+RANK: 501
+CITY: MyCity
+STATE: MyState
+ZIP: 12345
+EMPLOYEES: 100
+Record added successfully!
+New total: 501 records (Sorted: 500, Unsorted: 1)
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Enter company name to display: HANDMADE GRAPHICS
+
+================================================================================
+Record found at position 500:
+================================================================================
+NAME:      HANDMADE GRAPHICS
+RANK:      501
+CITY:      MyCity
+STATE:     My
+ZIP:       12345
+EMPLOYEES: 100
+================================================================================
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 5
+Enter company name to update: HANDMADE GRAPHICS
+
+Current record:
+NAME:      HANDMADE GRAPHICS (cannot be changed)
+RANK:      501
+CITY:      MyCity
+STATE:     My
+ZIP:       12345
+EMPLOYEES: 100
+
+Enter new values (press Enter to keep current value):
+New RANK [501]: 510
+New CITY [MyCity]: 
+New STATE [My]: 
+New ZIP [12345]: 
+New EMPLOYEES [100]: 
+Record updated successfully!
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 7 3
+Database closed successfully
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Error: No database is open
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 4
+Error: No database is open
+
+==================================================
+DATABASE MANAGEMENT SYSTEM
+==================================================
+1) Create new database
+2) Open database
+3) Close database
+4) Display record
+5) Update record
+6) Print report to the screen
+7) Add record
+8) Delete record
+9) Quit
+==================================================
+Enter your choice (1-9): 9
+Goodbye!
+[?2004h]0;wsultani@uark.edu@turing: ~/test[01;32mwsultani@uark.edu@turing[00m:[01;34m~/test[00m$ ls
+[?2004lDatabase.py        Fortune500.csv   Typescript2.txt
+Fortune500.config  Fortune500.data
+[?2004h]0;wsultani@uark.edu@turing: ~/test[01;32mwsultani@uark.edu@turing[00m:[01;34m~/test[00m$ [?2004l
+exit
+
+Script done on 2026-02-13 00:10:04-06:00 [COMMAND_EXIT_CODE="0"]
